@@ -1,0 +1,17 @@
+{
+    "require": {
+    },
+    "require-dev": {
+        "phpunit/phpunit": "5.7.*"
+    },
+    
+  "autoload": {
+    "classmap": [
+      "/bin/testMorgageCalculator.php",
+      "/bin/MortgageCalculator.php"
+    ]
+  }
+}
+
+    
+
